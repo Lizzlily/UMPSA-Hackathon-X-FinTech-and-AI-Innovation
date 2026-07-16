@@ -1,2 +1,2 @@
-# UMPSA-Hackathon-X-FinTech-and-AI-Innovation
-and FinTech workloads.  Hackathon X: Fintech Forward 2026 is a national-level competition held at Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA) that challenges university students from across Malaysia to develop innovative application solutions integrating artificial intelligence (Al).
+# Dispute AI (ai detector and AI fraud dispute assistant) Hackathon-X-FinTech-and-AI-Innovation
+Dispute AI provide functions including risk detection, user alerts, dispute documentation, evidence organization, and submission routing. One of its most useful dunction is Pre-transfer risk detection, including real-time suspicious transaction alerts and first time recipient verification prompts.
